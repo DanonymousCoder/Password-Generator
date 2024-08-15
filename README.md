@@ -11,4 +11,4 @@
 
 ### Visit at https://danonymouscoder.github.io/Password-Generator/
 
-##Thanks
+# #Thanks
